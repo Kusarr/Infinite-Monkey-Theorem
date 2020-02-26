@@ -11,7 +11,7 @@ public class TimingFileWriter {
   }
 
   public void writeTiming(String searchingWord, long writtenChars, long timing) throws IOException {
-    FileWriter fw = new FileWriter("RandomWordCreationTimings.txt", true);
+    FileWriter fw = new FileWriter("WordCreationTimings.txt", true);
     BufferedWriter bw = new BufferedWriter(fw);
     bw.write(getLineForFile(searchingWord, writtenChars, timing));
     bw.newLine();

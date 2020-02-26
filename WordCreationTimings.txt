@@ -165,3 +165,6 @@ Word: schatzi        Wrote Chars: 9.465.159.442  Time: 458.843 ms     c/ms: 20.6
 Word: a              Wrote Chars: 22             Time: 1 ms           c/ms: 22
 Word: sven           Wrote Chars: 634.389        Time: 1.187 ms       c/ms: 534
 Word: madrid         Wrote Chars: 77.645.791     Time: 154.079 ms     c/ms: 503
+Word: mama           Wrote Chars: 220.778        Time: 591 ms         c/ms: 373
+Word: truhen         Wrote Chars: 77.660.921     Time: 2.294 ms       c/ms: 33.853
+Word: schloss        Wrote Chars: 7.763.996.340  Time: 233.566 ms     c/ms: 33.241
