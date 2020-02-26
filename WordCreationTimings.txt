@@ -1,0 +1,167 @@
+Word: affe			 Wrote Chars: 10399			 Time: 84ms			  c/ms: 123
+Word: affe			 Wrote Chars: 8457			 Time: 65ms			  c/ms: 130
+Word: affe			 Wrote Chars: 20474			 Time: 183ms	      c/ms: 111
+Word: affe			 Wrote Chars: 3878			 Time: 37ms			  c/ms: 104
+Word: affe		     Wrote Chars: 22055		     Time: 182ms	      c/ms: 121
+Word: affe		     Wrote Chars: 25587		     Time: 216ms	      c/ms: 118
+Word: affe		     Wrote Chars: 33536		     Time: 298ms	      c/ms: 112
+Word: affe		     Wrote Chars: 14453		     Time: 135ms	      c/ms: 107
+Word: affe		     Wrote Chars: 22113		     Time: 174ms	      c/ms: 127
+Word: affe		     Wrote Chars: 1586		     Time: 19ms		      c/ms: 83
+Word: affe		     Wrote Chars: 93488		     Time: 1575ms	      c/ms: 59
+Word: affe		     Wrote Chars: 51913		     Time: 623ms	      c/ms: 83
+Word: affe		     Wrote Chars: 40652		     Time: 411ms	      c/ms: 98
+Word: affe		     Wrote Chars: 12231		     Time: 99ms		      c/ms: 123
+Word: affe		     Wrote Chars: 3778		     Time: 33ms		      c/ms: 114
+Word: affe		     Wrote Chars: 35032		     Time: 321ms	      c/ms: 109
+Word: affe		     Wrote Chars: 47927		     Time: 522ms	      c/ms: 91
+Word: affe		     Wrote Chars: 167791		 Time: 4340ms	      c/ms: 38
+Word: affe		     Wrote Chars: 408360		 Time: 21925ms	      c/ms: 18
+Word: sven		     Wrote Chars: 1015483	     Time: 153961ms	      c/ms: 6
+Word: sven		     Wrote Chars: 394447		 Time: 21433ms	      c/ms: 18
+Word: sven		     Wrote Chars: 777588		 Time: 87230ms	      c/ms: 8
+Word: sven		     Wrote Chars: 679469		 Time: 68117ms	      c/ms: 9
+Word: affe		     Wrote Chars: 932915		 Time: 133227ms	      c/ms: 7
+Word: aff		     Wrote Chars: 16556		     Time: 135ms	      c/ms: 122
+Word: aff		     Wrote Chars: 273		     Time: 2ms		      c/ms: 136
+Word: aff		     Wrote Chars: 71012		     Time: 808ms	      c/ms: 87
+Word: aff		     Wrote Chars: 15612		     Time: 75ms		      c/ms: 208
+Word: aff		     Wrote Chars: 921		     Time: 4ms		      c/ms: 230
+Word: af		     Wrote Chars: 254		     Time: 1ms		      c/ms: 254
+Word: affe		     Wrote Chars: 546955		 Time: 39762ms	      c/ms: 13
+Word: affe		     Wrote Chars: 108180		 Time: 1614ms	      c/ms: 67
+Word: affe		     Wrote Chars: 15880		     Time: 74ms		      c/ms: 214
+Word: affe		     Wrote Chars: 197591		 Time: 4912ms	      c/ms: 40
+Word: affe		     Wrote Chars: 1641055	     Time: 404283ms	      c/ms: 4
+Word: affe		     Wrote Chars: 289296		 Time: 9910ms	      c/ms: 29
+Word: affe		     Wrote Chars: 15550		     Time: 68ms		      c/ms: 228
+Word: affe		     Wrote Chars: 524494		 Time: 35069ms	      c/ms: 14
+Word: affe		     Wrote Chars: 39901		     Time: 280ms	      c/ms: 142
+Word: affe		     Wrote Chars: 164569		 Time: 3520ms	      c/ms: 46
+Word: affe		     Wrote Chars: 1517547	     Time: 333881ms	      c/ms: 4
+Word: affe		     Wrote Chars: 40148 	     Time: 5235ms	      c/ms: 76
+Word: affe		     Wrote Chars: 218003	     Time: 2739ms	      c/ms: 79
+Word: affe		     Wrote Chars: 228872		 Time: 2792ms	      c/ms: 81
+Word: affe		     Wrote Chars: 132836		 Time: 1542ms	      c/ms: 86
+Word: affe		     Wrote Chars: 160676	     Time: 1891ms	      c/ms: 84
+Word: affe		     Wrote Chars: 35963		     Time: 230ms	      c/ms: 156
+Word: affe		     Wrote Chars: 123382	     Time: 1479ms	      c/ms: 83
+Word: affe		     Wrote Chars: 293114	     Time: 3837ms	      c/ms: 76
+Word: affe		     Wrote Chars: 67567		     Time: 719ms	      c/ms: 93
+Word: affe		     Wrote Chars: 260031	     Time: 3166ms	      c/ms: 82
+Word: affe		     Wrote Chars: 32796		     Time: 197ms		  c/ms: 166
+Word: affe		     Wrote Chars: 809960	     Time: 10399ms	      c/ms: 77
+Word: affe		     Wrote Chars: 221089	     Time: 1767ms	      c/ms: 125
+Word: affe		     Wrote Chars: 58379		     Time: 431ms		  c/ms: 135
+Word: affe		     Wrote Chars: 434338		 Time: 2914ms	      c/ms: 149
+Word: affe		     Wrote Chars: 13043		     Time: 63ms		      c/ms: 207
+Word: affe		     Wrote Chars: 44696		     Time: 346ms		  c/ms: 129
+Word: affe		     Wrote Chars: 262799		 Time: 1838ms	      c/ms: 142
+Word: affe		     Wrote Chars: 225801		 Time: 1569ms	      c/ms: 143
+Word: sven		     Wrote Chars: 893417		 Time: 6138ms	      c/ms: 145
+Word: cool		     Wrote Chars: 98226		     Time: 795ms		  c/ms: 123
+Word: cool		     Wrote Chars: 208307		 Time: 1486ms	      c/ms: 140
+Word: cool		     Wrote Chars: 117496		 Time: 835ms		  c/ms: 140
+Word: cool		     Wrote Chars: 248325		 Time: 1802ms	      c/ms: 137
+Word: cool		     Wrote Chars: 266188		 Time: 1849ms	      c/ms: 143
+Word: cool		     Wrote Chars: 946939		 Time: 6549ms	      c/ms: 144
+Word: sven		     Wrote Chars: 222372		 Time: 1498ms	      c/ms: 148
+Word: sven		     Wrote Chars: 348085		 Time: 23147ms	      c/ms: 150
+Word: sven		     Wrote Chars: 23431		     Time: 112ms		  c/ms: 209
+Word: sven		     Wrote Chars: 1094404	     Time: 7325ms	      c/ms: 149
+Word: steffi	     Wrote Chars: 181184159	     Time: 1215996ms	  c/ms: 149
+Word: haus		     Wrote Chars: 230.760	     Time: 1559ms	      c/ms: 148
+Word: haus		     Wrote Chars: 594.300	     Time: 4.012 ms	      c/ms: 148
+Word: haus		     Wrote Chars: 792.026	     Time: 5.315 ms	      c/ms: 149
+Word: haus		     Wrote Chars: 324.550	     Time: 1.581 ms	      c/ms: 205
+Word: haus		     Wrote Chars: 212.698	     Time: 939 ms	      c/ms: 226
+Word: haus		     Wrote Chars: 114.524	     Time: 555 ms	      c/ms: 206
+Word: haus		     Wrote Chars: 549.534	     Time: 2.243 ms	      c/ms: 244
+Word: haus		     Wrote Chars: 90.368		 Time: 446 ms	      c/ms: 202
+Word: haus		     Wrote Chars: 992.883	     Time: 4.000 ms	      c/ms: 248
+Word: haus		     Wrote Chars: 346.838	     Time: 777 ms	      c/ms: 446
+Word: haus		     Wrote Chars: 588.487	     Time: 1.242 ms	      c/ms: 473
+Word: haus		     Wrote Chars: 639.778	     Time: 1.342 ms	      c/ms: 476
+Word: haus		     Wrote Chars: 123.195	     Time: 308 ms	      c/ms: 399
+Word: haus		     Wrote Chars: 20.386		 Time: 70 ms		  c/ms: 291
+Word: haus		     Wrote Chars: 574.432	     Time: 1.214 ms	      c/ms: 473
+Word: katze		     Wrote Chars: 4.019.441	     Time: 7.906 ms	      c/ms: 508
+Word: katze		     Wrote Chars: 4.371.903	     Time: 5.853 ms	      c/ms: 746
+Word: schiff	     Wrote Chars: 109.029.981    Time: 149.379 ms     c/ms: 729
+Word: schif		     Wrote Chars: 9.441.878	     Time: 3.233 ms	      c/ms: 2920
+Word: schif		     Wrote Chars: 14.947.606	 Time: 2.849 ms	      c/ms: 5246
+Word: schif		     Wrote Chars: 17.581.259	 Time: 1.979 ms	      c/ms: 8883
+Word: schif          Wrote Chars: 5.006.497      Time: 624 ms         c/ms: 8023
+Word: schif          Wrote Chars: 4.016.696      Time: 521 ms         c/ms: 7709
+Word: strand         Wrote Chars: 92.246.810     Time: 9.734 ms       c/ms: 9476
+Word: strand         Wrote Chars: 24.886.813     Time: 2.343 ms       c/ms: 10621
+Word: strand         Wrote Chars: 159.141.468    Time: 8.479 ms       c/ms: 18768
+Word: stran          Wrote Chars: 3.508.156      Time: 260 ms         c/ms: 13492
+Word: stran          Wrote Chars: 5.942.347      Time: 383 ms         c/ms: 15515
+Word: stran          Wrote Chars: 5.001.105      Time: 332 ms         c/ms: 15063
+Word: stran          Wrote Chars: 261.184        Time: 49 ms          c/ms: 5330
+Word: stran          Wrote Chars: 4.435.316      Time: 303 ms         c/ms: 14638
+Word: stran          Wrote Chars: 929.947        Time: 110 ms         c/ms: 8454
+Word: stran          Wrote Chars: 703.007        Time: 92 ms          c/ms: 7641
+Word: stran          Wrote Chars: 4.415.352      Time: 309 ms         c/ms: 14289
+Word: stran          Wrote Chars: 6.405.009      Time: 409 ms         c/ms: 15660
+Word: stran          Wrote Chars: 699.301        Time: 92 ms          c/ms: 7601
+Word: stran          Wrote Chars: 3.998.391      Time: 284 ms         c/ms: 14078
+Word: stran          Wrote Chars: 14.780.237     Time: 862 ms         c/ms: 17146
+Word: stran          Wrote Chars: 3.623.907      Time: 263 ms         c/ms: 13779
+Word: stran          Wrote Chars: 14.794.141     Time: 863 ms         c/ms: 17142
+Word: stran          Wrote Chars: 325.859        Time: 55 ms          c/ms: 5924
+Word: stran          Wrote Chars: 10.801.107     Time: 636 ms         c/ms: 16982
+Word: stran          Wrote Chars: 552.683        Time: 77 ms          c/ms: 7177
+Word: stran          Wrote Chars: 1.260.368      Time: 127 ms         c/ms: 9924
+Word: strand         Wrote Chars: 57.833.765     Time: 3.088 ms       c/ms: 18728
+Word: garage         Wrote Chars: 616.888.861    Time: 31.690 ms      c/ms: 19466
+Word: absicht        Wrote Chars: 598.739.370    Time: 31.172 ms      c/ms: 19207
+Word: steffi         Wrote Chars: 307.991.127    Time: 16.426 ms      c/ms: 18750
+Word: sven           Wrote Chars: 343.624        Time: 60 ms          c/ms: 5727
+Word: sven           Wrote Chars: 1.153.602      Time: 129 ms         c/ms: 8942
+Word: sven           Wrote Chars: 669.763        Time: 92 ms          c/ms: 7280
+Word: sveni          Wrote Chars: 29.092.049     Time: 1.760 ms       c/ms: 16529
+Word: svenii         Wrote Chars: 106.074.179    Time: 6.189 ms       c/ms: 17139
+Word: svenii         Wrote Chars: 180.272.366    Time: 9.383 ms       c/ms: 19212
+Word: sveniki        Wrote Chars: 60.228.720     Time: 3.223 ms       c/ms: 18687
+Word: a              Wrote Chars: 17             Time: 1 ms           c/ms: 17
+Word: ab             Wrote Chars: 275            Time: 3 ms           c/ms: 91
+Word: abc            Wrote Chars: 9.588          Time: 9 ms           c/ms: 1065
+Word: abcd           Wrote Chars: 541.892        Time: 86 ms          c/ms: 6301
+Word: abcde          Wrote Chars: 34.581.679     Time: 2.105 ms       c/ms: 16428
+Word: abcdef         Wrote Chars: 64.309.677     Time: 3.901 ms       c/ms: 16485
+Word: abcdefg        Wrote Chars: 15.377.526.220 Time: 910.293 ms     c/ms: 16892
+Word: steffi         Wrote Chars: 170.653.082    Time: 8.208 ms       c/ms: 20791
+Word: steffi         Wrote Chars: 183.036.090    Time: 9.062 ms       c/ms: 20198
+Word: steffi         Wrote Chars: 116.489.972    Time: 5.917 ms       c/ms: 19687
+Word: steffi         Wrote Chars: 316.692.685    Time: 15.892 ms      c/ms: 19927
+Word: zzzzzz         Wrote Chars: 472.980.003    Time: 22.623 ms      c/ms: 20907
+Word: az             Wrote Chars: 800            Time: 3 ms           c/ms: 266
+Word: az             Wrote Chars: 125            Time: 1 ms           c/ms: 125
+Word: schule         Wrote Chars: 298.187.863    Time: 14.523 ms      c/ms: 20532
+Word: kaffee         Wrote Chars: 292.768.695    Time: 14.768 ms      c/ms: 19824
+Word: sven           Wrote Chars: 423.233        Time: 788 ms         c/ms: 537
+Word: sven           Wrote Chars: 794.033        Time: 1.409 ms       c/ms: 563
+Word: sven           Wrote Chars: 896.929        Time: 1.609 ms       c/ms: 557
+Word: sven           Wrote Chars: 272.578        Time: 542 ms         c/ms: 502
+Word: sven           Wrote Chars: 920.452        Time: 1.678 ms       c/ms: 548
+Word: sven           Wrote Chars: 527.467        Time: 1.032 ms       c/ms: 511
+Word: sven           Wrote Chars: 965.159        Time: 107 ms         c/ms: 9020
+Word: steffi         Wrote Chars: 293.289.419    Time: 14.220 ms      c/ms: 20625
+Word: steffi         Wrote Chars: 74.259.147     Time: 126.184 ms     c/ms: 588
+Word: steffi         Wrote Chars: 584.876.851    Time: 30.052 ms      c/ms: 19462
+Word: steffi         Wrote Chars: 66.344.471     Time: 3.375 ms       c/ms: 19657
+Word: steffi         Wrote Chars: 119.833.390    Time: 5.885 ms       c/ms: 20362
+Word: steffi         Wrote Chars: 7.539.824      Time: 453 ms         c/ms: 16.644
+Word: steffi         Wrote Chars: 311.180.620    Time: 15.318 ms      c/ms: 20.314
+Word: steffi         Wrote Chars: 656.828.864    Time: 33.126 ms      c/ms: 19.828
+Word: steff          Wrote Chars: 25.997.658     Time: 44.582 ms      c/ms: 583
+Word: schatz         Wrote Chars: 162.462.871    Time: 8.410 ms       c/ms: 19.317
+Word: schatz         Wrote Chars: 114.439.055    Time: 5.745 ms       c/ms: 19.919
+Word: schatz         Wrote Chars: 77.000.973     Time: 4.045 ms       c/ms: 19.036
+Word: schatz         Wrote Chars: 606.315.414    Time: 29.358 ms      c/ms: 20.652
+Word: schatzi        Wrote Chars: 9.465.159.442  Time: 458.843 ms     c/ms: 20.628
+Word: a              Wrote Chars: 22             Time: 1 ms           c/ms: 22
+Word: sven           Wrote Chars: 634.389        Time: 1.187 ms       c/ms: 534
+Word: madrid         Wrote Chars: 77.645.791     Time: 154.079 ms     c/ms: 503
